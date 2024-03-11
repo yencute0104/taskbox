@@ -1,3 +1,4 @@
+import { themes } from '@storybook/theming';
 import '../src/index.css';
 
 // Registers the msw addon
@@ -17,6 +18,7 @@ const preview = {
         date: /Date$/,
       },
     },
+    docs: { theme: themes.dark },
   },
   loaders: [mswLoader],
 };

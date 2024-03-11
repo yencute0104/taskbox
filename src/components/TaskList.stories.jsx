@@ -46,7 +46,7 @@ const Mockstore = ({ taskboxState, children }) => (
 
 export default {
   component: TaskList,
-  title: 'TaskList',
+  title: 'Parent root/Stories/Test folder/TaskList',
   decorators: [(story) => <div style={{ padding: '3rem' }}>{story()}</div>],
   tags: ['autodocs'],
   excludeStories: /.*MockedState$/,

@@ -1,59 +1,59 @@
 yarn run v1.22.21
-$ storybook build --output-dir C:\Users\YEN~1.TAN\AppData\Local\Temp\chromatic--16476-XRgjYaiteVT2
+$ storybook build --output-dir C:\Users\YEN~1.TAN\AppData\Local\Temp\chromatic--18080-n0YrQp9103vK
 @storybook/cli v7.6.6
 
-info => Cleaning outputDir: C:\Users\YEN~1.TAN\AppData\Local\Temp\chromatic--16476-XRgjYaiteVT2
+info => Cleaning outputDir: C:\Users\YEN~1.TAN\AppData\Local\Temp\chromatic--18080-n0YrQp9103vK
 info => Loading presets
 info => Building manager..
-info => Manager built (343 ms)
+info => Manager built (284 ms)
 info => Building preview..
-info => Copying static files: C:\Users\yen.tang\Documents\taskbox\node_modules\@storybook\manager\static at C:\Users\YEN~1.TAN\AppData\Local\Temp\chromatic--16476-XRgjYaiteVT2\sb-common-assets
-info => Copying static files: C:\Users\yen.tang\Documents\taskbox\public at C:\Users\YEN~1.TAN\AppData\Local\Temp\chromatic--16476-XRgjYaiteVT2\
+info => Copying static files: C:\Users\yen.tang\Documents\taskbox\node_modules\@storybook\manager\static at C:\Users\YEN~1.TAN\AppData\Local\Temp\chromatic--18080-n0YrQp9103vK\sb-common-assets
+info => Copying static files: C:\Users\yen.tang\Documents\taskbox\public at C:\Users\YEN~1.TAN\AppData\Local\Temp\chromatic--18080-n0YrQp9103vK\
 [36mvite v4.5.1 [32mbuilding for production...[36m[39m
 transforming...
-[32m✓[39m 865 modules transformed.
+[32m✓[39m 839 modules transformed.
 rendering chunks...
 computing gzip size...
-[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--16476-XRgjYaiteVT2/[22m[32miframe.html                                    [39m[1m[2m 12.61 kB[22m[1m[22m[2m │ gzip:   3.58 kB[22m
-[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--16476-XRgjYaiteVT2/[22m[32massets/percolate-dac75269.ttf                  [39m[1m[2m 34.04 kB[22m[1m[22m
-[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--16476-XRgjYaiteVT2/[22m[32massets/percolate-ec979d96.woff                 [39m[1m[2m 34.11 kB[22m[1m[22m
-[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--16476-XRgjYaiteVT2/[22m[32massets/percolate-5ed633c2.eot                  [39m[1m[2m 34.21 kB[22m[1m[22m
-[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--16476-XRgjYaiteVT2/[22m[32massets/percolate-d13fa91b.svg                  [39m[1m[2m140.51 kB[22m[1m[22m[2m │ gzip:  46.93 kB[22m
-[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--16476-XRgjYaiteVT2/[22m[35massets/preview-47271f79.css                    [39m[1m[2m  6.87 kB[22m[1m[22m[2m │ gzip:   2.05 kB[22m
-[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--16476-XRgjYaiteVT2/[22m[36massets/_commonjs-dynamic-modules-302442b1.js   [39m[1m[2m  0.24 kB[22m[1m[22m[2m │ gzip:   0.19 kB[22m
-[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--16476-XRgjYaiteVT2/[22m[36massets/WithTooltip-V3YHNWJZ-56edf8c9.js        [39m[1m[2m  0.44 kB[22m[1m[22m[2m │ gzip:   0.27 kB[22m
-[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--16476-XRgjYaiteVT2/[22m[36massets/syntaxhighlighter-V7JZZA35-bb233041.js  [39m[1m[2m  0.45 kB[22m[1m[22m[2m │ gzip:   0.29 kB[22m
-[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--16476-XRgjYaiteVT2/[22m[36massets/preview-ee31de64.js                     [39m[1m[2m  0.51 kB[22m[1m[22m[2m │ gzip:   0.33 kB[22m
-[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--16476-XRgjYaiteVT2/[22m[36massets/index-3fd0d1ea.js                       [39m[1m[2m  0.58 kB[22m[1m[22m[2m │ gzip:   0.35 kB[22m
-[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--16476-XRgjYaiteVT2/[22m[36massets/preview-73104b77.js                     [39m[1m[2m  0.64 kB[22m[1m[22m[2m │ gzip:   0.45 kB[22m
-[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--16476-XRgjYaiteVT2/[22m[36massets/_commonjsHelpers-de833af9.js            [39m[1m[2m  0.69 kB[22m[1m[22m[2m │ gzip:   0.38 kB[22m
-[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--16476-XRgjYaiteVT2/[22m[36massets/index-356e4a49.js                       [39m[1m[2m  0.77 kB[22m[1m[22m[2m │ gzip:   0.47 kB[22m
-[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--16476-XRgjYaiteVT2/[22m[36massets/index-8d47fad6.js                       [39m[1m[2m  0.80 kB[22m[1m[22m[2m │ gzip:   0.52 kB[22m
-[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--16476-XRgjYaiteVT2/[22m[36massets/preview-0ef86afd.js                     [39m[1m[2m  0.86 kB[22m[1m[22m[2m │ gzip:   0.55 kB[22m
-[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--16476-XRgjYaiteVT2/[22m[36massets/preview-0fbd6daf.js                     [39m[1m[2m  1.04 kB[22m[1m[22m[2m │ gzip:   0.68 kB[22m
-[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--16476-XRgjYaiteVT2/[22m[36massets/entry-preview-fb6629d6.js               [39m[1m[2m  1.12 kB[22m[1m[22m[2m │ gzip:   0.66 kB[22m
-[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--16476-XRgjYaiteVT2/[22m[36massets/index-11d98b33.js                       [39m[1m[2m  2.59 kB[22m[1m[22m[2m │ gzip:   1.26 kB[22m
-[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--16476-XRgjYaiteVT2/[22m[36massets/preview-30b54f76.js                     [39m[1m[2m  3.21 kB[22m[1m[22m[2m │ gzip:   1.37 kB[22m
-[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--16476-XRgjYaiteVT2/[22m[36massets/Task.stories-f9bc9e1e.js                [39m[1m[2m  3.68 kB[22m[1m[22m[2m │ gzip:   1.54 kB[22m
-[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--16476-XRgjYaiteVT2/[22m[36massets/iframe-1c460410.js                      [39m[1m[2m  4.64 kB[22m[1m[22m[2m │ gzip:   1.66 kB[22m
-[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--16476-XRgjYaiteVT2/[22m[36massets/preview-d01b88e8.js                     [39m[1m[2m  5.23 kB[22m[1m[22m[2m │ gzip:   2.41 kB[22m
-[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--16476-XRgjYaiteVT2/[22m[36massets/index-76fb7be0.js                       [39m[1m[2m  7.16 kB[22m[1m[22m[2m │ gzip:   2.91 kB[22m
-[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--16476-XRgjYaiteVT2/[22m[36massets/preview-da31036b.js                     [39m[1m[2m  7.62 kB[22m[1m[22m[2m │ gzip:   1.55 kB[22m
-[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--16476-XRgjYaiteVT2/[22m[36massets/preview-c56bf6ac.js                     [39m[1m[2m  8.28 kB[22m[1m[22m[2m │ gzip:   3.17 kB[22m
-[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--16476-XRgjYaiteVT2/[22m[36massets/index-da07a199.js                       [39m[1m[2m 13.61 kB[22m[1m[22m[2m │ gzip:   5.13 kB[22m
-[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--16476-XRgjYaiteVT2/[22m[36massets/Color-6VNJS4EI-ed90a220.js              [39m[1m[2m 17.64 kB[22m[1m[22m[2m │ gzip:   6.81 kB[22m
-[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--16476-XRgjYaiteVT2/[22m[36massets/TaskList.stories-a7085ccf.js            [39m[1m[2m 32.42 kB[22m[1m[22m[2m │ gzip:  12.06 kB[22m
-[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--16476-XRgjYaiteVT2/[22m[36massets/preview-79942882.js                     [39m[1m[2m 34.19 kB[22m[1m[22m[2m │ gzip:  13.40 kB[22m
-[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--16476-XRgjYaiteVT2/[22m[36massets/preview-21802b0a.js                     [39m[1m[2m 72.07 kB[22m[1m[22m[2m │ gzip:  24.41 kB[22m
-[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--16476-XRgjYaiteVT2/[22m[36massets/_getPrototype-1e53b583.js               [39m[1m[2m 78.40 kB[22m[1m[22m[2m │ gzip:  23.54 kB[22m
-[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--16476-XRgjYaiteVT2/[22m[36massets/react-18-236157c6.js                    [39m[1m[2m134.55 kB[22m[1m[22m[2m │ gzip:  43.45 kB[22m
-[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--16476-XRgjYaiteVT2/[22m[36massets/entry-preview-docs-17bdf6ae.js          [39m[1m[2m212.41 kB[22m[1m[22m[2m │ gzip:  66.48 kB[22m
-[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--16476-XRgjYaiteVT2/[22m[36massets/index-69d26cbb.js                       [39m[1m[2m372.82 kB[22m[1m[22m[2m │ gzip: 114.68 kB[22m
-[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--16476-XRgjYaiteVT2/[22m[36massets/DocsRenderer-NNNQARDV-16f9396d.js       [39m[1m[33m537.37 kB[39m[22m[2m │ gzip: 175.75 kB[22m
-[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--16476-XRgjYaiteVT2/[22m[36massets/axe-18789938.js                         [39m[1m[33m556.58 kB[39m[22m[2m │ gzip: 152.93 kB[22m
-[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--16476-XRgjYaiteVT2/[22m[36massets/InboxScreen.stories-49f8f145.js         [39m[1m[33m562.35 kB[39m[22m[2m │ gzip: 149.28 kB[22m
-[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--16476-XRgjYaiteVT2/[22m[36massets/formatter-SWP5E3XI-9ff30ef3.js          [39m[1m[33m601.64 kB[39m[22m[2m │ gzip: 186.24 kB[22m
-[32m✓ built in 10.27s[39m
-info => Preview built (11 s)
-info => Output directory: C:\Users\YEN~1.TAN\AppData\Local\Temp\chromatic--16476-XRgjYaiteVT2
-Done in 16.05s.
+[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--18080-n0YrQp9103vK/[22m[32miframe.html                                    [39m[1m[2m 12.61 kB[22m[1m[22m[2m │ gzip:   3.58 kB[22m
+[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--18080-n0YrQp9103vK/[22m[32massets/percolate-dac75269.ttf                  [39m[1m[2m 34.04 kB[22m[1m[22m
+[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--18080-n0YrQp9103vK/[22m[32massets/percolate-ec979d96.woff                 [39m[1m[2m 34.11 kB[22m[1m[22m
+[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--18080-n0YrQp9103vK/[22m[32massets/percolate-5ed633c2.eot                  [39m[1m[2m 34.21 kB[22m[1m[22m
+[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--18080-n0YrQp9103vK/[22m[32massets/percolate-d13fa91b.svg                  [39m[1m[2m140.51 kB[22m[1m[22m[2m │ gzip:  46.93 kB[22m
+[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--18080-n0YrQp9103vK/[22m[35massets/preview-47271f79.css                    [39m[1m[2m  6.87 kB[22m[1m[22m[2m │ gzip:   2.05 kB[22m
+[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--18080-n0YrQp9103vK/[22m[36massets/_commonjs-dynamic-modules-302442b1.js   [39m[1m[2m  0.24 kB[22m[1m[22m[2m │ gzip:   0.19 kB[22m
+[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--18080-n0YrQp9103vK/[22m[36massets/WithTooltip-V3YHNWJZ-133fe4d2.js        [39m[1m[2m  0.44 kB[22m[1m[22m[2m │ gzip:   0.27 kB[22m
+[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--18080-n0YrQp9103vK/[22m[36massets/syntaxhighlighter-V7JZZA35-6762c6d3.js  [39m[1m[2m  0.45 kB[22m[1m[22m[2m │ gzip:   0.29 kB[22m
+[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--18080-n0YrQp9103vK/[22m[36massets/preview-80fdf6a2.js                     [39m[1m[2m  0.51 kB[22m[1m[22m[2m │ gzip:   0.33 kB[22m
+[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--18080-n0YrQp9103vK/[22m[36massets/index-3fd0d1ea.js                       [39m[1m[2m  0.58 kB[22m[1m[22m[2m │ gzip:   0.35 kB[22m
+[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--18080-n0YrQp9103vK/[22m[36massets/preview-73104b77.js                     [39m[1m[2m  0.64 kB[22m[1m[22m[2m │ gzip:   0.45 kB[22m
+[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--18080-n0YrQp9103vK/[22m[36massets/_commonjsHelpers-de833af9.js            [39m[1m[2m  0.69 kB[22m[1m[22m[2m │ gzip:   0.38 kB[22m
+[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--18080-n0YrQp9103vK/[22m[36massets/index-356e4a49.js                       [39m[1m[2m  0.77 kB[22m[1m[22m[2m │ gzip:   0.47 kB[22m
+[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--18080-n0YrQp9103vK/[22m[36massets/index-8d47fad6.js                       [39m[1m[2m  0.80 kB[22m[1m[22m[2m │ gzip:   0.52 kB[22m
+[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--18080-n0YrQp9103vK/[22m[36massets/preview-0ef86afd.js                     [39m[1m[2m  0.86 kB[22m[1m[22m[2m │ gzip:   0.55 kB[22m
+[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--18080-n0YrQp9103vK/[22m[36massets/preview-d1c7a904.js                     [39m[1m[2m  1.04 kB[22m[1m[22m[2m │ gzip:   0.68 kB[22m
+[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--18080-n0YrQp9103vK/[22m[36massets/entry-preview-fb6629d6.js               [39m[1m[2m  1.12 kB[22m[1m[22m[2m │ gzip:   0.66 kB[22m
+[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--18080-n0YrQp9103vK/[22m[36massets/index-11d98b33.js                       [39m[1m[2m  2.59 kB[22m[1m[22m[2m │ gzip:   1.26 kB[22m
+[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--18080-n0YrQp9103vK/[22m[36massets/preview-30b54f76.js                     [39m[1m[2m  3.21 kB[22m[1m[22m[2m │ gzip:   1.37 kB[22m
+[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--18080-n0YrQp9103vK/[22m[36massets/Task.stories-f9bc9e1e.js                [39m[1m[2m  3.68 kB[22m[1m[22m[2m │ gzip:   1.54 kB[22m
+[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--18080-n0YrQp9103vK/[22m[36massets/iframe-8e664ff2.js                      [39m[1m[2m  4.64 kB[22m[1m[22m[2m │ gzip:   1.66 kB[22m
+[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--18080-n0YrQp9103vK/[22m[36massets/preview-d01b88e8.js                     [39m[1m[2m  5.23 kB[22m[1m[22m[2m │ gzip:   2.41 kB[22m
+[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--18080-n0YrQp9103vK/[22m[36massets/index-76fb7be0.js                       [39m[1m[2m  7.16 kB[22m[1m[22m[2m │ gzip:   2.91 kB[22m
+[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--18080-n0YrQp9103vK/[22m[36massets/preview-da31036b.js                     [39m[1m[2m  7.62 kB[22m[1m[22m[2m │ gzip:   1.55 kB[22m
+[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--18080-n0YrQp9103vK/[22m[36massets/preview-c56bf6ac.js                     [39m[1m[2m  8.28 kB[22m[1m[22m[2m │ gzip:   3.17 kB[22m
+[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--18080-n0YrQp9103vK/[22m[36massets/index-da07a199.js                       [39m[1m[2m 13.61 kB[22m[1m[22m[2m │ gzip:   5.13 kB[22m
+[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--18080-n0YrQp9103vK/[22m[36massets/Color-6VNJS4EI-680ff8d3.js              [39m[1m[2m 17.64 kB[22m[1m[22m[2m │ gzip:   6.81 kB[22m
+[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--18080-n0YrQp9103vK/[22m[36massets/TaskList.stories-a7085ccf.js            [39m[1m[2m 32.42 kB[22m[1m[22m[2m │ gzip:  12.06 kB[22m
+[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--18080-n0YrQp9103vK/[22m[36massets/preview-8d086323.js                     [39m[1m[2m 34.23 kB[22m[1m[22m[2m │ gzip:  13.41 kB[22m
+[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--18080-n0YrQp9103vK/[22m[36massets/preview-21802b0a.js                     [39m[1m[2m 72.07 kB[22m[1m[22m[2m │ gzip:  24.41 kB[22m
+[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--18080-n0YrQp9103vK/[22m[36massets/_getPrototype-1e53b583.js               [39m[1m[2m 78.40 kB[22m[1m[22m[2m │ gzip:  23.54 kB[22m
+[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--18080-n0YrQp9103vK/[22m[36massets/react-18-236157c6.js                    [39m[1m[2m134.55 kB[22m[1m[22m[2m │ gzip:  43.45 kB[22m
+[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--18080-n0YrQp9103vK/[22m[36massets/entry-preview-docs-17bdf6ae.js          [39m[1m[2m212.41 kB[22m[1m[22m[2m │ gzip:  66.48 kB[22m
+[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--18080-n0YrQp9103vK/[22m[36massets/index-03d05a58.js                       [39m[1m[2m375.25 kB[22m[1m[22m[2m │ gzip: 116.12 kB[22m
+[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--18080-n0YrQp9103vK/[22m[36massets/DocsRenderer-NNNQARDV-e15d1cd9.js       [39m[1m[33m537.37 kB[39m[22m[2m │ gzip: 175.75 kB[22m
+[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--18080-n0YrQp9103vK/[22m[36massets/axe-18789938.js                         [39m[1m[33m556.58 kB[39m[22m[2m │ gzip: 152.93 kB[22m
+[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--18080-n0YrQp9103vK/[22m[36massets/InboxScreen.stories-ecc7e086.js         [39m[1m[33m562.37 kB[39m[22m[2m │ gzip: 149.27 kB[22m
+[2m../../../YEN~1.TAN/AppData/Local/Temp/chromatic--18080-n0YrQp9103vK/[22m[36massets/formatter-SWP5E3XI-a82d37df.js          [39m[1m[33m601.64 kB[39m[22m[2m │ gzip: 186.24 kB[22m
+[32m✓ built in 9.13s[39m
+info => Preview built (9.8 s)
+info => Output directory: C:\Users\YEN~1.TAN\AppData\Local\Temp\chromatic--18080-n0YrQp9103vK
+Done in 13.21s.
